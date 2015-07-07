@@ -3,4 +3,4 @@
 Homestead.yaml
 .env
 .venv
-fabfile.py
+fabfile.py*
