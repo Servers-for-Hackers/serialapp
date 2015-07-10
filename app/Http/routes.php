@@ -12,6 +12,6 @@
 */
 
 Route::get('/', function () {
-    return "something else, post-deploy";
+    return "something else";
     return view('welcome');
 });
