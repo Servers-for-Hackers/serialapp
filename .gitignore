@@ -5,3 +5,7 @@ Homestead.yaml
 .venv
 *.py*
 .idea
+.vagrant
+Vagrantfile
+public/css/*
+public/js/*
