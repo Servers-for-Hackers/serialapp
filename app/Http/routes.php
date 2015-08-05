@@ -12,6 +12,5 @@
 */
 
 Route::get('/', function () {
-    return "something changed";
     return view('welcome');
 });
