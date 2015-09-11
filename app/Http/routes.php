@@ -12,5 +12,6 @@
 */
 
 Route::get('/', function () {
+    return 'HOWDY CHANGES';
     return view('welcome');
 });
