@@ -12,7 +12,5 @@
 */
 
 Route::get('/', function () {
-
-    return "always be editing this file";
     return view('welcome');
 });
