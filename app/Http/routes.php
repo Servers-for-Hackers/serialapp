@@ -13,6 +13,5 @@
 
 Route::get('/', function () {
     return 'other thanwelcome';
-
     return view('welcome');
 });
